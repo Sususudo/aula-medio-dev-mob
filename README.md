@@ -1,7 +1,6 @@
 # aula-medio-dev-mob
 <<<<<<< HEAD
 
-Samuel 
 
 =======
 aula teste do meu repositorio git
